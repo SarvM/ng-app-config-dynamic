@@ -1,0 +1,5 @@
+{
+  "environment": "local",
+  "webUrl": "http://localhost:1323/webUrl",
+  "fetchUrl":"http://localhost:1231"
+}
